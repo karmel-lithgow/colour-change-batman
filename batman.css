@@ -1,0 +1,13 @@
+img {
+  max-width: 100%;
+  max-height: auto;
+  position: fixed;
+  overflow: auto;
+  padding: 0;
+  margin: 0%;
+  border: 0%;
+  left: 0%;
+  top: 0%;
+  object-fit: contain;
+  -o-object-fit: contain;
+}
